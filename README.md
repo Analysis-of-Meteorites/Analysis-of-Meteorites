@@ -45,3 +45,4 @@ Analysis of Meteorites is done using [`python`](https://www.python.org). It is c
 4. Numpy Documentation - https://numpy.org/doc/stable
 5. Matplotlib Documentation - https://matplotlib.org/stable/tutorials/index
 6. Ipython Documentation - https://ipython.org/documentation.html
+7. Plotpy Documentation - 
