@@ -75,7 +75,6 @@ In conclusion, this project successfully analyzed a comprehensive dataset of met
 ## Outcomes
 A comprehensive dataset encompassing a wide range of meteorite falls, including detailed attributes for each event. Initial insights into the data, guiding further analysis. A clean, reliable dataset ready for analysis. Visualizations and insights into the global distribution of meteorite falls. Identification of significant periods and trends in meteorite fall activity. Insights into the compositions and origins of meteorites. Meaningful insights and guidance for further investigation and data collection improvements.
 
-
 ## Resources
 1. Python Documentation - https://docs.python.org/3/tutorial/index.html
 2. Seaborn Documentation - https://seaborn.pydata.org/tutorial.html
