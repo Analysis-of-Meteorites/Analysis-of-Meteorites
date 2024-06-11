@@ -29,7 +29,7 @@ The dataset contains information about meteorite falls, with 45,000 rows and mul
 
 ## Objectives
 1. Data Collection and Integration
-Source data from scientific databases (e.g., NASA, Meteoritical Society), historical records, and other reliable sources.
+- Source data from scientific databases (e.g., NASA, Meteoritical Society), historical records, and other reliable sources.
 
 2. Data Preprocessing and Cleaning
 - Clean the dataset by handling missing values, correcting errors, and standardizing formats.
