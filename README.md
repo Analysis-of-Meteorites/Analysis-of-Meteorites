@@ -48,7 +48,7 @@ The dataset contains information about meteorite falls, with 45,000 rows and mul
 By achieving these objectives, the project aims to provide a thorough analysis of meteorite falls, contributing valuable knowledge to the field of planetary science and enhancing our understanding of these fascinating space objects.
 
 ## Features
-Analysis of Meteorites is done using [`python`](https://www.python.org). It is created using the following 'python' modules/libraries.
+Analysis of Meteorites is done using [`python`](https://www.python.org). Following are the libraries that we have used to complete this project.
 1. [seaborn](https://seaborn.pydata.org/tutorial.html)
 2. [pandas](https://pandas.pydata.org/docs/)
 3. [numpy](https://numpy.org/doc/stable/)
@@ -58,6 +58,15 @@ Analysis of Meteorites is done using [`python`](https://www.python.org). It is c
 
 ## Background
 Meteorite studies have significantly contributed to our understanding of the cosmos. Historical accounts of meteorite falls date back centuries, but systematic scientific investigations began in the 19th century. Meteorites are classified based on their composition and structure, with common types including stony, iron, and stony-iron meteorites. These classifications help scientists trace their origins and the conditions of their parent bodies. The dataset used in this project consolidates historical and modern records of meteorite falls, providing a robust foundation for analysis.
+
+### Questions we've tried to answer
+- Check the fell vs found meteorite throughout the time frame?
+- Which year observed the heaviest meteorite by average mass?
+- What are the most common types of meteorites found?
+- What is the geographical distribution of meteorite fall?
+- Are there any patterns or trends in meteorite falls over time?
+- How do the masses of meteorites vary across different types?
+- Did any meteorites fall or be found in Nepal?
 
 ## Methodology
 The analysis involves several steps, beginning with data collection and preprocessing. The dataset was obtained from reliable sources, ensuring its accuracy and completeness. Data cleaning procedures were applied to handle missing values and outliers. Exploratory data analysis (EDA) was conducted to understand the basic characteristics of the data. Various visualization techniques were employed to depict trends and patterns. Advanced statistical methods and machine learning algorithms were also utilized to perform deeper analysis and clustering of meteorite falls based on their attributes.
