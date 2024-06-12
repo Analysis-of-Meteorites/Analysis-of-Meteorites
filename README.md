@@ -2,7 +2,6 @@
 [![Contribution](https://img.shields.io/badge/contribute-welcome-green)](https://github.com/theranjitraut/Analysis-of-Meteorites/blob/main/CONTRIBUTING.md)
 [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-view-white)](https://github.com/theranjitraut/Analysis-of-Meteorites/blob/main/CODE_OF_CONDUCT.md)
 [![License](https://img.shields.io/badge/license-mit-red)](https://github.com/theranjitraut/Analysis-of-Meteorites/blob/main/LICENSE)
-[![Versions](https://img.shields.io/badge/versions-1.4.0-orange)](https://github.com/theranjitraut/Analysis-of-Meteorites/tags)
 [![Documentation](https://img.shields.io/badge/documentation-view-violet)](https://github.com/theranjitraut/Analysis-of-Meteorites/blob/main/README.md)
 [![Discussions](https://img.shields.io/badge/discussions-view-yellow)](https://github.com/orgs/theranjitraut/Analysis-of-Meteorites/discussions)
 
