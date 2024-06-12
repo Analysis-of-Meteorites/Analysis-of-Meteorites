@@ -65,6 +65,39 @@ The analysis involves several steps, beginning with data collection and preproce
 ## Results
 The analysis revealed several key findings. First, there has been a noticeable increase in the number of recorded meteorite falls over the centuries, likely due to improved detection and reporting methods. Geographical distribution maps showed that certain regions have higher concentrations of meteorite falls, which could be attributed to population density and observation efforts. Additionally, the mass distribution of meteorites follows a skewed pattern, with a few very large meteorites and many smaller ones. Temporal trends indicate varying fall frequencies over different periods, possibly influenced by astronomical and environmental factors.
 
+![Analysis-of-Meteorites](https://github.com/theranjitraut/Analysis-of-Meteorites/blob/main/gfx/Screenshot 2024-06-12 150741.png.png)
+
+
+Screenshot 2024-06-12 150812.png
+
+Screenshot 2024-06-12 150831.png
+
+Screenshot 2024-06-12 150854.png
+
+Screenshot 2024-06-12 150953.png
+
+Screenshot 2024-06-12 151008.png
+
+Screenshot 2024-06-12 151037.png
+
+Screenshot 2024-06-12 151050.png
+
+Screenshot 2024-06-12 151117.png
+
+Screenshot 2024-06-12 151132.png
+
+Screenshot 2024-06-12 151147.png
+
+Screenshot 2024-06-12 151159.png
+
+Screenshot 2024-06-12 151213.png
+
+Screenshot 2024-06-12 151234.png
+
+Screenshot 2024-06-12 151314.png
+
+Screenshot 2024-06-12 151335.png
+
 ## Discussion
 The findings from this study provide valuable insights into the nature and distribution of meteorite falls. The increase in recorded falls over time highlights the importance of historical documentation and technological advancements in meteorite detection. The geographical patterns suggest that human activity and observation capabilities significantly influence the recording of meteorite falls. The mass distribution underscores the rarity of large meteorites. These results can inform future research and aid in the development of models predicting meteorite impact probabilities.
 
