@@ -21,6 +21,7 @@ The dataset contains information about meteorite falls, with 45,000 rows and mul
 - [Background](#background)
 - [Methodology](#methodology)
 - [Results](#results)
+- [Visualization](#visualization)
 - [Discussion](#discussion)
 - [Conclusion](#conclusion)
 - [Outcomes](#outcomes)
@@ -74,6 +75,7 @@ The analysis involves several steps, beginning with data collection and preproce
 ## Results
 The analysis revealed several key findings. First, there has been a noticeable increase in the number of recorded meteorite falls over the centuries, likely due to improved detection and reporting methods. Geographical distribution maps showed that certain regions have higher concentrations of meteorite falls, which could be attributed to population density and observation efforts. Additionally, the mass distribution of meteorites follows a skewed pattern, with a few very large meteorites and many smaller ones. Temporal trends indicate varying fall frequencies over different periods, possibly influenced by astronomical and environmental factors.
 
+## Visualization
 ![Analysis-of-Meteorites](https://github.com/theranjitraut/Analysis-of-Meteorites/blob/main/gfx/Screenshot%202024-06-12%20150741.png)
 ![Analysis-of-Meteorites](https://github.com/theranjitraut/Analysis-of-Meteorites/blob/main/gfx/Screenshot%202024-06-12%20150812.png)
 ![Analysis-of-Meteorites](https://github.com/theranjitraut/Analysis-of-Meteorites/blob/main/gfx/Screenshot%202024-06-12%20150831.png)
